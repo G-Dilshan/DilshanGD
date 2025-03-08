@@ -1,5 +1,5 @@
 #### Machine Learning | Deep Learning | Computer Vision | Research
-![Machine Learning | Deep Learning | Computer Vision | Research](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#![Machine Learning | Deep Learning | Computer Vision | Research](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <h1 align="center">Hi 👋, I'm Dilshan Upasena</h1>
 <h3 align="center">I am a final-year Computer Science undergraduate at the University of Jaffna, Sri Lanka, with a strong passion for AI, deep learning, and academic research. I am deeply motivated by the intersection of research and innovation, constantly exploring new methodologies to enhance AI-driven solutions.</h3>
