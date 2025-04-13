@@ -1,4 +1,4 @@
-#### Artificial intelligence | Machine Learning |Data Science | Deep Learning | Computer Vision | Research
+#### Artificial Intelligence | Machine Learning |Data Science | Deep Learning | Computer Vision | Research
 
 
 <h1 align="center">Hi 👋, I'm Dilshan Upasena</h1>
