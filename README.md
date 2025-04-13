@@ -1,10 +1,10 @@
-#### Machine Learning | Deep Learning | Computer Vision | Research
-![Machine Learning | Deep Learning | Computer Vision | Research](https://media.licdn.com/dms/image/v2/D5616AQFuSTDt3VX0vg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708327656255?e=1746662400&v=beta&t=NMeEHRkPAmn1XFg7xfwRmB1r3ldoOrkBr45XFN9BnaY)
+#### Artificial intelligence | Machine Learning |Data Science | Deep Learning | Computer Vision | Research
+
 
 <h1 align="center">Hi 👋, I'm Dilshan Upasena</h1>
-<h3 align="center">I am a final-year Computer Science undergraduate at the University of Jaffna, Sri Lanka, with a strong passion for AI, deep learning, and academic research. I am deeply motivated by the intersection of research and innovation, constantly exploring new methodologies to enhance AI-driven solutions.</h3>
+<h3 align="center">I am a final-year Computer Science undergraduate at the University of Jaffna, Sri Lanka, with a strong passion for AI & ML, Data Science and academic research. I am deeply motivated by the intersection of research and innovation, constantly exploring new methodologies to enhance AI-driven solutions.</h3>
 
-- 🌱 I’m currently learning **Reinforcement Learning & GenAI**
+- 🌱 I’m currently learning **GenAI & Agentic AI**
 
 - 📫 How to reach me **g.dilshanupasena@gmail.com**
 
